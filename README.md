@@ -1,5 +1,8 @@
 Ecom — Modern E-commerce Web App
 
+
+
+
 A full-stack, feature-rich E-commerce platform built using React, Node.js, Express, Supabase, and Tailwind CSS. Designed for modern user experience and fast performance.
 
 🚀 Tech Stack
@@ -13,6 +16,8 @@ Database & Auth: Supabase
 Styling: Tailwind CSS
 
 APIs: RESTful (via Express routes)
+
+Language: Primarily written in TypeScript for type safety, better developer experience, and fewer runtime bugs.
 
 ✨ Features
 
@@ -60,15 +65,6 @@ VITE_SUPABASE_ANON_KEY=your_supabase_key
 
 npm run dev
 
-📸 Screenshots
-
-Home Page
-
-Product Page
-
-Cart Page
-
-
 🔗 Live Demo
 
 🚧 Coming soon...
@@ -85,6 +81,20 @@ Cart Page
 
 ✉️ Email notifications for orders
 
+📊 Language Breakdown
+
+Language
+
+Percentage
+
+TypeScript
+
+97.8%
+
+JavaScript
+
+1.4%
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and create a PR.
@@ -96,3 +106,4 @@ git push origin feature/your-feature
 🪪 License
 
 MIT License — Feel free to use and modify this project for personal or commercial purposes.
+
